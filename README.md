@@ -1,7 +1,7 @@
 projecteuler
 ============
 
-First thing I heard in sophomore year in college to get better.
+First thing I heard in sophomore year in college to get better at programming.
 
 ```
 Do ProjectEuler.
